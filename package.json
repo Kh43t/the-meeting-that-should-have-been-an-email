@@ -1,0 +1,1 @@
+{"description":"A one-line joke about a meeting that should have been an email, written to /output/entry.txt.","license":"MIT","name":"the-meeting-that-should-have-been-an-email","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
